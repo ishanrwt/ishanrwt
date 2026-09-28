@@ -4,12 +4,7 @@
 
 Welcome to my GitHub! I am a 3rd-year B.Tech Computer Science student with a strong focus on backend development, scalable architectures, and artificial intelligence. I love building tools that solve real problems and exploring the intersection of web development and LLMs.
 
-### 🚀 About Me
-
-- 💼 Currently working as a **Full Stack Developer Intern** at CognixAI Labs.
-- 🔭 Actively building an **Event Organizer SaaS application** and a **YouTube Transcript Summarizer Chrome Extension** (powered by a fine-tuned T5 model and FastAPI).
-- 🌱 Deep-diving into **Spring Boot**, **Agentic AI**, and consistently leveling up my problem-solving skills with **DSA in Java**.
-- 🎯 Current Goal: Mastering advanced data structures and backend system design.
+### creative frontend and fullstack developer 
 
 ---
 
