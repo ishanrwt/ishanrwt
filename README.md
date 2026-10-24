@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | AI Enthusiast | CS Student
 
-Welcome to my GitHub! I am a 3rd-year B.Tech Computer Science student with a strong focus on backend development, scalable architectures, and artificial intelligence. I love building tools that solve real problems and exploring the intersection of web development and LLMs.
+Welcome to my GitHub! I am a 4th-year B.Tech Computer Science student with a strong focus on backend development, scalable architectures, and artificial intelligence. I love building tools that solve real problems and exploring the intersection of web development and LLMs.
 
 ### creative frontend and fullstack developer 
 
